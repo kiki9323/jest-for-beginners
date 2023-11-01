@@ -75,12 +75,12 @@ test('startRace 메서드가 attempts 만큼 반복 시도 되었는지 확인',
 ### 1.3 실행 결과
 
 > console.log가 3번 출력되고 있다.
-> <img src="./images/beforemockImplementation.png" style="display:block;" width="500px" alt="beforemockImplementation" />
+<img src="./images/beforemockImplementation.png" style="display:block;" width="500px" alt="beforemockImplementation" />
 
 <br />
 
 > `mockImplementation()` 으로 재정의 후 console.log 없이 테스트 완료.
-> <img src="./images/aftermockImplementation.png" style="display:block;"  width="400px" alt="aftermockImplementation" />
+<img src="./images/aftermockImplementation.png" style="display:block;"  width="400px" alt="aftermockImplementation" />
 
 <br />
 <br />
